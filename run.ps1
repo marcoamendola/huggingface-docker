@@ -1,0 +1,1 @@
+docker run -it --rm hf-test -- python3 ./huggingfacelocal.py
